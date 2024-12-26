@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/_wI1LABjZAUAAAAM/gojo-satoru-gojo.gif"  />
 
 ###
 
@@ -53,4 +52,4 @@
 </div>
 
 ###
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300"/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aai3foroyjoy7lj6oipji2plp4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aai3foroyjoy7lj6oipji2plp4&redirect=true)
